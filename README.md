@@ -1,1 +1,1 @@
-# bot-de-atoma-o-investimentos
+# bot-de-automacao-investimentos
